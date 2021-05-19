@@ -57,7 +57,7 @@ img {
   align-items: center;
   display: flex;
   justify-content: center;
-  font-family: "Roboto", sans-serif;
+  text-decoration: none;
 }
 
 .marginTop {
